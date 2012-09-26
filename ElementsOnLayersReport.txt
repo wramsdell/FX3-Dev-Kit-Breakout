@@ -1,0 +1,24 @@
+
+Components/elements on layers report
+	design name: C:\PCB\FX3-Dev-Kit-Breakout\FX3-Breakout.pcb
+	generate on: 09/25/2012 17:32:37
+
+	 Checking layer no. 1!
+ Component found, name = J2, position: x=12.7, y=55.88
+ Component found, name = J3, position: x=12.7, y=25.4
+ Component found, name = J4, position: x=12.7, y=-5.08
+ Component found, name = J5, position: x=22.86, y=55.88
+ Component found, name = J6, position: x=22.86, y=25.4
+ Component found, name = J7, position: x=22.86, y=-5.08
+ Text found, name = TOP (1), position: x=70.99, y=-28.84
+
+	 Checking layer no. 2!
+ Copper Cut Out found, name = DRW56585275, position: x=23.1, y=49.5
+
+	 Checking layer no. 3!
+ Copper Cut Out found, name = DRW10594391, position: x=19, y=25.5
+ Copper Cut Out found, name = DRW56172364, position: x=19, y=22.3
+
+	 Checking layer no. 4!
+ Component found, name = J1, position: x=33.02, y=25.4
+ Text found, name = BOTTOM (2), position: x=71.01, y=-28.66
